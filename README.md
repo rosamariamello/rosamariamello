@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me rosamariamello@gmail.com
 - 😄 Pronouns: she/ela
-- ⚡ Facts about me: I'm AuDHD, have gonne to college twice and traveled more than 24,000 km in South America :) 
+- ⚡ Facts about me: I'm AuDHD, have gonne to college twice and traveled more than
+-  24,000 km on a bike, visiting many places in South America :) 
 
 <!---
 rosamariamello/rosamariamello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
