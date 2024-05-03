@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rosamariamello
 -  I’m interested in art and drawing, animation and games. I really love to read and learn.
-- 🌱 I’m currently learning programming logic and JS
+- 🌱 I’m currently learning programming logic, JS and PHP.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me rosamariamello@gmail.com
 - 😄 Pronouns: she/ela
