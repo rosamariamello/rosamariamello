@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rosamariamello
+- 👋 Hi, I’m @rosamariamello, I'm a product designer, UI/UX.
 -  I’m interested in art and drawing, animation and games. I really love to read and learn.
 - 🌱 I’m currently learning programming logic, JS and PHP.
 - 💞️ I’m looking to collaborate on ...
